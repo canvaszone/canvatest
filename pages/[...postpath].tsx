@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://leoparddisappearcrumble.com/t1anfqjd?key=7b7e25f7224bb1a162c0f32a5a811cf0/`
+					`https://www.toprevenuegate.com/m2c3jkf32?key=9511e6172891f4d80912e5dc7ca9ecea/`
 				}`,
 			},
 		};
